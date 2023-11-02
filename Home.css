@@ -32,10 +32,12 @@
   }
 
   .u-section-1 .u-text-1 {
+    font-size: 3rem;
     margin-left: 0;
   }
 
   .u-section-1 .u-text-2 {
+    font-size: 0.875rem;
     margin-right: 406px;
     margin-left: 0;
   }
@@ -71,7 +73,6 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 3rem;
     width: auto;
     margin-top: 227px;
     margin-right: 0;
@@ -126,7 +127,7 @@
   .u-section-2 .u-video-1 {
     height: 529px;
     width: 940px;
-    margin-top: -212px;
+    margin-top: 20px;
   }
 
   .u-section-2 .u-text-2 {
@@ -147,7 +148,6 @@
   .u-section-2 .u-video-1 {
     height: 405px;
     width: 720px;
-    margin-top: -88px;
   }
 }
 
@@ -431,10 +431,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-4 .u-text-2 {
-    margin-top: -59px;
-  }
-
   .u-section-4 .u-list-1 {
     margin-top: 142px;
   }
@@ -474,7 +470,7 @@
   }
 
   .u-section-4 .u-list-1 {
-    margin-top: -397px;
+    margin-top: 20px;
   }
 
   .u-section-4 .u-repeater-1 {
@@ -518,10 +514,6 @@
 @media (max-width: 767px) {
   .u-section-4 .u-text-2 {
     margin-top: 1158px;
-  }
-
-  .u-section-4 .u-list-1 {
-    margin-top: -1075px;
   }
 
   .u-section-4 .u-repeater-1 {
@@ -576,10 +568,6 @@
 @media (max-width: 575px) {
   .u-section-4 .u-text-2 {
     margin-top: 810px;
-  }
-
-  .u-section-4 .u-list-1 {
-    margin-top: -752px;
   }
 
   .u-section-4 .u-image-1 {
@@ -1078,7 +1066,7 @@
 
 @media (max-width: 1199px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 1054px;
+    min-height: 1062px;
   }
 
   .u-section-7 .u-text-2 {
@@ -3112,6 +3100,12 @@
   margin: -153px 135px 0 auto;
 }
 
+@media (max-width: 1199px) {
+  .u-section-12 .u-text-1 {
+    margin-top: 20px;
+  }
+}
+
 @media (max-width: 991px) {
   .u-section-12 .u-container-layout-1 {
     padding-left: 22px;
@@ -3130,10 +3124,6 @@
     width: 540px;
     margin-left: 0;
   }
-
-  .u-section-12 .u-text-1 {
-    margin-top: -126px;
-  }
 }
 
 @media (max-width: 575px) {
@@ -3143,7 +3133,6 @@
   }
 
   .u-section-12 .u-text-1 {
-    margin-top: -29px;
     margin-right: 85px;
   }
 } .u-section-13 {
